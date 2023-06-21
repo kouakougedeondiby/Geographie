@@ -1,0 +1,165 @@
+
+
+
+body{
+    margin: 0 auto;
+    justify-content: center;
+}
+
+
+.big-page1{
+    margin: 38px;
+}
+.big-page3{
+    margin: 10px;
+}
+.big-page4{
+    margin: 11px;
+}
+.big-page5{
+    margin: 38px;
+}
+
+.big-page6{
+    margin: 10px;
+}
+.big-page7{
+    margin: 10px;
+}
+
+
+
+.big-page2{
+    margin: 10px;
+}
+
+
+.big-body{
+    font-family: Georgia, 'Times New Roman', Times,;
+    margin: 100px;
+}
+
+.landing-page{
+  padding: 2Opx;  
+}
+
+.big-title1{
+    color: rgb(243, 237, 237);
+    margin: 13%;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(46, 171, 175);
+    padding: 30px;
+    border-radius: 20px;
+    }
+.big-title2{
+color: rgb(187, 218, 51);
+}
+
+form .separation{
+    width: 100%;
+    height: 4px;
+    background-color: rgb(19, 32, 216);
+}
+
+form .corps-formulaire{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 45px;
+    position: relative;
+}
+
+
+form .corps-formulaire .boite{
+    margin-top: 5px;
+    display: flex ;
+    flex-direction: column;
+    color: #0712e6;
+    border: #4204eb;
+}
+
+i{
+position: absolute;
+left: px;1px
+top: 25px;
+padding: 34px 10px;
+
+}
+
+
+input{
+margin-top: 5px;
+padding: 10px 5px 10px 30px;
+display: flex;
+border: 1px solid #c9c9c9;
+outline-color: #3718e9;
+border-radius: 19px;
+}
+
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    background-color: rgb(153, 160, 146);
+    margin-left: 15px;
+    padding: 10px;
+}
+header img{
+    width: 150px;
+}
+
+.big-title{
+    font-family: 'Trebuchet MS',
+    color: rgb(97, 10, 10);
+    height: 100px;
+    margin: 40px;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    color: rgb(240, 230, 230);
+    margin-left: 100PX;
+    
+    
+}
+
+
+   form .gauche{
+        margin-top: 50px;
+        padding: 10px 5px 10px 300px;
+        border: 2px #5a63b4;
+        outline-color: #183bc5;
+        border-radius: 500px;
+        padding: 0px 3px;
+}
+
+
+ form .big-page8 textarea{
+    margin-top: 100%;
+   
+    height: 72%;
+    margin: px;
+    padding: 10%;
+    resize: none;
+}
+
+ .big-title3 button{
+    margin-top: 10px;
+    background-color: #10d310;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    transition: transform 0,5s;
+
+}
+ .big-title3 button:hover{
+   transform: scale(1,02);
+}
+
+    
